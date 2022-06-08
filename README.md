@@ -1,1 +1,2 @@
-https://Troyan01.github.io/rsschool-cv/cv
+# rsschool-cv
+https://troyan01.github.io/rsschool-cv/
